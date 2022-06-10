@@ -36,7 +36,7 @@ If you're new to Ruby and Ruby On Rails *(like me!)* I've listed a few great res
 * Ruby
 * Ruby On Rails
 * Node
-* Tailwind
+* Tailwind CSS
 * PostgreSQL
 * Yarn
 * Bundler
