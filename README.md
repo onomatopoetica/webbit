@@ -1,7 +1,7 @@
-# WEBBIT
+
 ![Github followers](https://img.shields.io/github/followers/onomatopoetica?color=blue&logo=GitHub&style=flat)  ![GitHub last commit](https://img.shields.io/github/last-commit/onomatopoetica/webbit)  ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/onomatopoetica/webbit?color=yellow)  ![GitHub language count](https://img.shields.io/github/languages/count/onomatopoetica/webbit?color=orange&logo=GitHub&style=flat)  ![](https://img.shields.io/badge/language-ruby-red/?style=flat&logo=ruby&logoColor=red&color=red) ![GitHub license](https://img.shields.io/badge/license-MIT-yellow) ![Gem (including prereleases)](https://img.shields.io/gem/v/rails?include_prereleases&logo=ruby&logoColor=red&color=red)
 
-# Rails Blog
+# Webbit
 
 ## Project Links
 [Repo Link](https://github.com/onomatopoetica/webbit)
