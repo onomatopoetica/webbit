@@ -22,7 +22,13 @@ Webbit is a _nearly_ full-feature `Reddit clone` app built with Ruby 3.0 and Rub
 
 ### Modeling
 
-Each model will be responsible for different data throughout the app.
+Each model will be responsible for different data throughout the app:
+
+- User - focused on the user
+- Submission - The user authors submissions which have different media (text, image/video, links)
+- Community - Category based on submissions
+- Comments - A response given to the submission from another user to a given user
+- Subscription - A user can subscribe and unsubscribe to a community
 
 ## Demo
 
