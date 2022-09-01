@@ -1,0 +1,27 @@
+<div id="<%= dom_id submission %>">
+  <p>
+    <strong>Title:</strong>
+    <%= submission.title %>
+  </p>
+
+  <p>
+    <strong>Body:</strong>
+    <%= submission.body %>
+  </p>
+
+  <p>
+    <strong>Url:</strong>
+    <%= submission.url %>
+  </p>
+
+  <p>
+    <strong>Media:</strong>
+    <%= link_to submission.media.filename, submission.media if submission.media.attached? %>
+  </p>
+
+  <p>
+    <strong>User:</strong>
+    <%= submission.user_id %>
+  </p>
+
+</div>
