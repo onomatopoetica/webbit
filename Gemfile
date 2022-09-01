@@ -17,6 +17,9 @@ gem 'rubocop', '~> 1.36'
 # A RuboCop extension focused on enforcing Rails best practices and coding conventions [https://rubygems.org/gems/rubocop-rails]
 gem 'rubocop-rails', '~> 2.15', '>= 2.15.2'
 
+# Set of higher-level helper methods for image processing [https://rubygems.org/gems/image_processing/versions/1.2.0]
+gem 'image_processing', '>= 1.2'
+
 # The process manager for applications with multiple components
 gem 'foreman', '~> 0.87.2'
 
