@@ -1,4 +1,0 @@
-convention:Style/FrozenStringLiteralComment:
-  Enabled: true,
-
-  rubocop --safe-auto-correct --only "Style/StringLiterals"

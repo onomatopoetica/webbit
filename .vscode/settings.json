@@ -1,5 +1,6 @@
 {
   "[ruby]": {
     "editor.insertSpaces": true
-  }
+  },
+  "git.mergeEditor": false
 }
