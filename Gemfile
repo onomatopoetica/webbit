@@ -11,6 +11,12 @@ gem 'rails', '~> 7.0.3'
 # The original asset pipeline for Rails [https://github.com/rails/sprockets-rails]
 gem 'sprockets-rails'
 
+# RuboCop is a Ruby code style checking and code formatting tool [https://rubygems.org/gems/rubocop]
+gem 'rubocop', '~> 1.36'
+
+# A RuboCop extension focused on enforcing Rails best practices and coding conventions [https://rubygems.org/gems/rubocop-rails]
+gem 'rubocop-rails', '~> 2.15', '>= 2.15.2'
+
 # The process manager for applications with multiple components
 gem 'foreman', '~> 0.87.2'
 
