@@ -37,5 +37,7 @@
 /app/assets/builds/*
 !/app/assets/builds/.keep
 
+# Ignore node modules and VSCode settings
 /node_modules
 .DS_Store
+.vscode
