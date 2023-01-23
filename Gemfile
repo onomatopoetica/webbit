@@ -20,6 +20,8 @@ gem 'rubocop-rails', '~> 2.15', '>= 2.15.2'
 # Set of higher-level helper methods for image processing [https://rubygems.org/gems/image_processing/versions/1.2.0]
 gem 'image_processing', '>= 1.2'
 
+gem 'inline_svg', '~> 1.8'
+
 # The process manager for applications with multiple components
 gem 'foreman', '~> 0.87.2'
 
